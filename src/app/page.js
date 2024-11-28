@@ -190,7 +190,7 @@ const CodeTimeline = () => {
           </div> */}
 
           <a
-            href="https://github.com/X-SLAYER/code_timeline_preview"
+            href="https://github.com/rishabh3562/CodeLenz"
             target="_blank"
             rel="noopener noreferrer"
             className={`p-2 rounded-full ${

@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Code Timeline",
+  title: "CodeLenz",
   description: "Visualize your code execution in a timeline",
 };
 

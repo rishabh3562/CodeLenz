@@ -44,7 +44,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/codelenz.git
+   git clone https://github.com/rishabh3562/CodeLenz.git
    ```
 2. Install dependencies:
    ```bash
